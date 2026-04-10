@@ -2,7 +2,6 @@
 Thank you for stopping by! I'm Ryan, a recent computer science graduate.
 Most of my experience lies in data analytics and backend development, but I'm always growing and learning more!
 
-Though things are under construction here, please feel free to take a look around!
 
 # Skills
 ## Programming languages
